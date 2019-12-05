@@ -1,0 +1,20 @@
+{
+  "name": "editing-quick-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@canva/editing-extensions-api": "0.0.51-alpha.0",
+    "watermark": "^1.0.1",
+    "watermarkjs": "^2.0.0"
+  }
+}

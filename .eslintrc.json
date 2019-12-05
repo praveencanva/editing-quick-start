@@ -1,0 +1,20 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2018,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  },
+  "rules": {
+    "no-console": 0,
+    "no-debugger": 0,
+    "no-var": 2,
+    "indent": ["error", 4, { "SwitchCase": 1 }],
+    "semi": [1, "always"],
+    "no-unused-vars": 2,
+    "no-underscore-dangle": 0,
+    "no-alert": 0,
+    "no-lone-blocks": 0
+  }
+}
